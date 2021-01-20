@@ -17,6 +17,8 @@ which a simple restart will fix.
 
 **Love my work?**
 
+Bitcoin: 1L9kdrW3hJ1abzJAKJwVGNrg3otAEmekY2
+
 Ethereum: 0x43db5a4a44a57f0699c320dbf1131879ec831274
 
 Ripple: rDrdhCVD79js6dTWHC1d6cdHjvj2hD3T1H
